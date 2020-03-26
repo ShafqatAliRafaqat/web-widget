@@ -10,7 +10,13 @@ html, body {
     padding: 0;
 
 }
-
+#messageArea .chat .chatbot .msg{
+    background: #15558d !important;
+    color: #fff !important;
+}
+.time{
+    color: #fff !important;
+}
 /* M E S S A G E S */
 #messageArea {
     overflow-y: scroll;
